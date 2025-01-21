@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohammad Anas.
-- 👀 I’m interested in Books, Sports and Movies.
-- 🌱 I’m currently learning Data Science.
+- 👀 Interested in Books, Sports and Movies.
+- 💻 Data Analyst. 
 - 📫 How to reach me: harryer8@gmail.com
 
 <!---
